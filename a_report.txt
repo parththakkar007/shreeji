@@ -1,0 +1,5 @@
+balance_sheet.php->Sr. no || Date || Opening Balance || Closing Balance
+
+partywise_report.php->Action || Sr. no || Name || Date || CR || DB
+
+datewise_report.php->Action || Sr. no || Name Date || CR || DB
